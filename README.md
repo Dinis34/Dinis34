@@ -1,4 +1,4 @@
-- [Fallbound](https://github.com/FEUP-LDIS-2024/project-t06g03)  
+- [Fallbound](https://github.com/FEUP-LDTS-2024/project-t06g03)  
 
 
 <!--
